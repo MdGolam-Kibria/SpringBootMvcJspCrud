@@ -1,0 +1,14 @@
+.fullCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%!important;
+    /*width: 65%;*/
+    overflow: hidden;
+}
+
+.identifier {
+    font-size: 10px;
+    color: black;
+    font-weight: bold
+}
